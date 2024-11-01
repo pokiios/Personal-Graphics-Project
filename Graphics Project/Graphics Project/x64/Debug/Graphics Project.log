@@ -1,5 +1,0 @@
-﻿  Main.cpp
-D:\SCHOOL\Personal-Graphics-Project\Graphics Project\Main.cpp(36,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\SCHOOL\Personal-Graphics-Project\Graphics Project\Main.cpp(36,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\SCHOOL\Personal-Graphics-Project\Graphics Project\Main.cpp(36,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-  Graphics Project.vcxproj -> D:\SCHOOL\Personal-Graphics-Project\Graphics Project\x64\Debug\Graphics Project.exe
